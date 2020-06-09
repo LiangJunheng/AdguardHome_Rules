@@ -6,3 +6,5 @@
 ||wwacll.com^
 ||jlianvip.com^
 ||wfxll.com^
+||tools.yiclear.com^
+@@||boxer.baidu.com^
