@@ -13,4 +13,6 @@
 ||wswebcdn.com^
 ||u2j6g.xyz^
 ||adhubbj.xyz^
-@@||boxer.baidu.com^
+||googleadservices.com^
+||adservice.google.com^
+
