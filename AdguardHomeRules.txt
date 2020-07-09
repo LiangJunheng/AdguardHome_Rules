@@ -37,7 +37,6 @@
 ||cnzz.com^
 ||ppmh*.com^
 ||7004707.com^
-||snssdk.com^
 ||google-analytics.com^
 ||google-rank.org^
 ||mail-ads.google.com^
