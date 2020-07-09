@@ -30,6 +30,7 @@
 /^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
 /^(\S+\.)?xpj[0-9]\.net$/
 /^(\S+\.)?ylx-[0-9].com$/
+||snssdk.com^
 ||google-analytics.com^
 ||google-rank.org^
 ||mail-ads.google.com^
