@@ -252,7 +252,7 @@
 /^(\S+\.)?doubleclick[0-9a-z]*(\.[a-z]{2})?$/
 /^(\S+\.)?(mobile|mob|page)?ad(m|s|serv[a-z]*|ver[a-z]*)?(\d*)?(\-|\.)/
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
-/^(\S+\.)?analytics(\-|\.)/
+/^(\S+\.)?[0-9a-z\-]*analytics(\-|\.)/
 /^(\S+\.)?counter(\-|\.)/
 /^(\S+\.)?pixels?\./
 /^(\S+\.)?track(ing)?\./
