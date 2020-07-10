@@ -250,7 +250,7 @@
 /^(\S+\.)?(\d+[a-z]+|[a-z]+\d+){2,}[0-9a-z]+[0-9a-z\-]*(\.[^\.]{1,4})(\.[a-z]{2})?$/
 /^(\S+\.)?(web)?stats?\./
 /^(\S+\.)?doubleclick[0-9a-z]*(\.[a-z]{2})?$/
-/^(\S+\.)?(mobile|mob|page)?ad([\d]*|m|s|server|servers|service|services|vert[a-z]*)?\./
+/^(\S+\.)?(mobile|mob|page)?ad([\d]*|m|s|server|servers|service|services||ver[a-z]*)?(\-|\.)/
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?analytics(\-|\.)/
 /^(\S+\.)?counter(\-|\.)/
