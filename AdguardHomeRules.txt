@@ -36,7 +36,6 @@
 ||epdlzra.cn^
 ||wsweb*.com^
 ||dmmaster*.com^
-@@||csstools.chinaz.com^
 ||89rsn.cn^
 
 #恶意网站
