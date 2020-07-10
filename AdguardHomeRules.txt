@@ -34,6 +34,10 @@
 ||akx2.xyz^
 ||adhubbj.xyz^
 ||epdlzra.cn^
+||wsweb*.com^
+||dmmaster*.com^
+@@||csstools.chinaz.com^
+||89rsn.cn^
 
 #恶意网站
 ||51yes.com^
