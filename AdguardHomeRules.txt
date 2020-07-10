@@ -38,6 +38,12 @@
 ||epdlzra.cn^
 ||shpanli.com^
 
+#恶意网站
+||51yes.com^
+||buyu*.com^
+||toutoucao*.com^
+||duba.net^
+||statcounter.com^
 #待反馈是否误杀
 ||ad.12306.cn^
 #百度（可能有多余项）
