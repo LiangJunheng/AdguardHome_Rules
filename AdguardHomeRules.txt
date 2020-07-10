@@ -269,7 +269,6 @@
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
 /delivery([\d]{2}|dom|modo).com$/
 /^(\S+\.)?tongji\./
-/^(\S+\.)?adservice\.google\./
 /^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /syma[a-z]\.cn$/
