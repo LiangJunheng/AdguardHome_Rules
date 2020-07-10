@@ -261,7 +261,7 @@
 /^(\S+\.)?777\-?partners?\.(net|com)$/
 /9377[a-z]{2}\.com$/
 /^(\S+\.)?abie[0-9]+\.top$/
-!/^(\S+\.)?ad[0-9]{3,}m.com$/
+/^(\S+\.)?ad[0-9]{3,}m.com$/
 /^(\S+\.)?widgets?\./
 /^(\S+\.)?affiliat(es|ion|e)\./
 /afgr[\d]{1,2}\.com$/
