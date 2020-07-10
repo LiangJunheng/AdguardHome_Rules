@@ -31,12 +31,9 @@
 ||wfxll.com^
 ||tools.yiclear.com^
 ||bmbb.xyz^
-||gitcdn.xyz^
 ||akx2.xyz^
-||u2j6g.xyz^
 ||adhubbj.xyz^
 ||epdlzra.cn^
-||shpanli.com^
 
 #恶意网站
 ||51yes.com^
@@ -61,10 +58,8 @@
 ||t10.baidu.com^
 ||t11.baidu.com^
 ||t12.baidu.com^
-# 未知广告 来自#49反馈
+# 站长统计
 ||stats.chinaz.com^
-#站长统计
-||google-analytics.com^
 #广告联盟（可能有多余项）
 ||doubleclick.net^
 ||zhihu-analytics.zhihu.com^
@@ -134,6 +129,11 @@
 ||youmi.net^
 ||zhiziyun.com^
 ||segment.com^
+||taboola.com^
+||inmobi.cn^
+||criteo.com^
+||cnzz.com^
+||ppmh*.com^
 #新浪（可能有多余项）
 ||ad.sina.com.cn^
 ||adm.leju.sina.com.cn^
@@ -189,10 +189,6 @@
 #以下为杭州公交 APP 的广告调用地址，含京东广告
 ||im-x.jd.com^
 ||ad.ipadview.com^
-
-#以下为广告联盟
-||taboola.com^
-||trc.taboola.com^
 #付呗收款码支付后跳转到的广告地址（支付宝内）
 ||tuisnake.com^
 ||duiba.com.cn^
@@ -201,11 +197,6 @@
 ||location.ximalaya.com^
 ||adse.ximalaya.com^
 ||xdcs-collector.ximalaya.com^
-#广告联盟
-||inmobi.cn^
-||criteo.com^
-||cnzz.com^
-||ppmh*.com^
 #169
 ||adx.hupu.com^
 ||kikibt8.com^
@@ -256,7 +247,7 @@
 /^(\S+\.)?(\d+[a-z]+|[a-z]+\d+){2,}[0-9a-z]+[0-9a-z\-]*(\.[^\.]{1,4})(\.[a-z]{2})?$/
 /^(\S+\.)?(mobile|mob|page)?ad(m|s(e[a-z]*)?|v((an|er|i)[a-z]*)?)?(\d*)?(\-|\.)/
 /^(\S+\.)?[0-9a-z\-]+ad(ser[a-z]*|v(er|ic|is)[a-z]*)(\d*)?(\-|\.)/
-/^(\S+\.)?(web)?stats?\./
+/^(\S+\.)?([0-9a-z]*\-|web)?stats?\./
 /^(\S+\.)?doubleclick[0-9a-z]*(\.[^\.]{1,4})(\.[a-z]{2})?$/
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?[0-9a-z\-]*analy[a-z]*(\-|\.)/
