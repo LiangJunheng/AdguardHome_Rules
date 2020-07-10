@@ -1,4 +1,5 @@
-#基于https://github.com/privacy-protection-tools/anti-AD上精简和添加修改一些自己习惯的规则
+#引用https://github.com/privacy-protection-tools/anti-AD
+#引用https://git.io/JfIXs
 
 #以下为某些不可描述网站加载的乱七八糟广告
 ||maizhenai.cn^
