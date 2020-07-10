@@ -243,11 +243,14 @@
 ||googletakes.com^
 ||googletrackmanager.com^
 ||googlevideoads.com^
+||advgoogle.com^
+
 
 #正则化规则，过滤垃圾域名
 /^(\S+\.)?(\d+[a-z]+|[a-z]+\d+){2,}[0-9a-z]+[0-9a-z\-]*(\.[^\.]{1,4})(\.[a-z]{2})?$/
 /^(\S+\.)?(web)?stats?\./
-/^(\S+\.)?(mobile|mob|page)?ad([\d]*|m|s|server|servers|service|services)?\./
+/^(\S+\.)?doubleclick[0-9a-z]*(\.[a-z]{2})?$/
+/^(\S+\.)?(mobile|mob|page)?ad([\d]*|m|s|server|servers|service|services|vert[a-z]*)?\./
 /^(\S+\.)?11599[\da-z]{2,20}\.com$/
 /^(\S+\.)?analytics(\-|\.)/
 /^(\S+\.)?counter(\-|\.)/
