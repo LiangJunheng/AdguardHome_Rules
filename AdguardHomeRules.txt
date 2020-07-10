@@ -229,7 +229,6 @@
 ||googlealiyun.cn^
 ||googleanalytcs.com^
 ||googleapi.club^
-||clientservices.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||imasdk.googleapis.com^
 ||footprints-pa.googleapis.com^
