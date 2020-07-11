@@ -37,6 +37,7 @@
 ||dmmaster*.com^
 ||89rsn.cn^
 ||wangkeduo.cn^
+||lygpm.cn^
 
 #恶意网站
 ||51yes.com^
