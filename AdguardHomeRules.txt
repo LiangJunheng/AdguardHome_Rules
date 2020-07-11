@@ -36,6 +36,7 @@
 ||bysk*.top^
 ||dmmaster*.com^
 ||89rsn.cn^
+||wangkeduo.cn^
 
 #恶意网站
 ||51yes.com^
@@ -64,7 +65,6 @@
 ||stats.chinaz.com^
 #广告联盟（可能有多余项）
 ||doubleclick.net^
-||wangkeduo.cn^
 ||zhihu-analytics.zhihu.com^
 ||log.cmbchina.com^
 ||api.segment.io^
