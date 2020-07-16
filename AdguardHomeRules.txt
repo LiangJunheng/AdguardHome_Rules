@@ -69,7 +69,7 @@
 /^(\S+\.)?yumi\d{1,2}.com$/
 /^(\S+\.)?ppmh\d{1,2}.com$/
 /^(\S+\.)?xpj\d.net$/
-/^(\S+\.)?ylx\-\d.com$/
+/^(\S+\.)?ylx\d.com$/
 /^(\S+\.)?6699[0-9]\.top$/
 /^(\S+\.)?9377[a-z]{2}\.com$/
 /^(\S+\.)?ali2[a-z]\.xyz$/
@@ -275,4 +275,4 @@
 /^(\S+\.)?[0-9a-z\-]*(measure|analy)[a-z]*(\-|\.)/
 /^(\S+\.)?(counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)(\-|\.)/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
-/^(\S+\.)?[0-9a-z\-]*(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
+/^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
