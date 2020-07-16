@@ -275,4 +275,4 @@
 /^(\S+\.)?[0-9a-z\-]*(measure|analy)[a-z]*(\-|\.)/
 /^(\S+\.)?(counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)(\-|\.)/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
-/^(\S+\.)?[0-9a-z\-]?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
+/^(\S+\.)?[0-9a-z\-]*(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
