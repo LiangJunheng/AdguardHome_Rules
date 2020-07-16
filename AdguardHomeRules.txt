@@ -39,8 +39,6 @@
 ||wangkeduo.cn^
 ||lygpm.cn^
 ||jfsdiwmnbsk*.top^
-||11599*.com^
-||61677*.com^
 
 #恶意网站
 ||51yes.com^
