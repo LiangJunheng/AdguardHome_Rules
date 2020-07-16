@@ -78,11 +78,8 @@
 /ad[0-9]{3,}m.com$/
 /afgr[\d]{1,2}\.com$/
 /syma[a-z]\.cn$/
-/^(\S+\.)?affiliat(es|ion|e)\./
-/^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
-/^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
-/^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
-/^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
+/delivery([\d]{2}|dom|modo).com$/
+/voyage-prive\.[a-z]+(\.uk)?$/
 ||doubleclick*^
 ||log.cmbchina.com^
 ||api.segment.io^
@@ -165,6 +162,7 @@
 ||tjs.sjs.sinajs.cn^
 #微博（可能有多余项）
 /^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
+/^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 ||c.biz.weibo.com^
 ||game.weibo.com^
 ||c.wcpt.biz.weibo.com^
@@ -275,5 +273,6 @@
 /^(\S+\.)?[0-9a-z\-]+ad(ser[a-z]*|v(er|ic|is)[a-z]*)(\d*)?(\-|\.)/
 /^(\S+\.)?([0-9a-z]*\-|web)?stats?\./
 /^(\S+\.)?[0-9a-z\-]*(measure|analy)[a-z]*(\-|\.)/
-/^(\S+\.)?(counter|pixels?|track(ing)?|widgets?|toolbar|tongji)(\-|\.)/
+/^(\S+\.)?(counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)(\-|\.)/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
+/^(\S+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
