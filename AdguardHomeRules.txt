@@ -80,7 +80,6 @@
 /^(\S+\.)?afgr[\d]{1,2}\.com$/
 /^(\S+\.)?syma[a-z]\.cn$/
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
-/^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
 ||doubleclick*^
 ||log.cmbchina.com^
 ||api.segment.io^
@@ -276,3 +275,4 @@
 /^(\S+\.)?(counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)(\-|\.)/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
 /^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
+/^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
