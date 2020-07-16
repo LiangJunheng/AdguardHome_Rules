@@ -85,7 +85,7 @@
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /^(\S+\.)?syma[a-z]\.cn$/
 /^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
-||doubleclick.*^
+||doubleclick\.*^
 ||log.cmbchina.com^
 ||api.segment.io^
 ||api.instabug.com^
