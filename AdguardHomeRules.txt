@@ -3,6 +3,9 @@
 
 #以下为某些不可描述网站加载的乱七八糟广告
 /yumi\d.com/
+/xpj\d.net/
+/ylx\-\d.com/
+/6699[0-9]\.top/
 
 ||maizhenai.cn^
 ||paomifen.cn^
@@ -40,8 +43,6 @@
 ||89rsn.cn^
 ||wangkeduo.cn^
 ||lygpm.cn^
-||xpj*.net^
-||ylx*.com^
 ||jfsdiwmnbsk*.top^
 ||11599*.com^
 ||61677*.com^
@@ -72,7 +73,6 @@
 # 站长统计
 ||stats.chinaz.com^
 #广告联盟（可能有多余项）
-/^(\S+\.)?6699[0-9]\.top$/
 /^(\S+\.)?777\-?partners?\.(net|com)$/
 /^(\S+\.)?9377[a-z]{2}\.com$/
 /^(\S+\.)?abie[0-9]+\.top$/
@@ -83,7 +83,6 @@
 /^(\S+\.)?ali2[a-z]\.xyz$/
 /^(\S+\.)?([a-z\d\-]+\.)?(?!xn--)[^\.\/]{26,}\.(com|net|cn)(\.cn)?$/
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
-/^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /^(\S+\.)?syma[a-z]\.cn$/
 /^(\S+\.)?voyage-prive\.[a-z]+(\.uk)?$/
@@ -168,6 +167,7 @@
 ||sax.sina.com.cn^
 ||tjs.sjs.sinajs.cn^
 #微博（可能有多余项）
+/^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 ||c.biz.weibo.com^
 ||game.weibo.com^
 ||c.wcpt.biz.weibo.com^
