@@ -66,7 +66,8 @@
 # 站长统计
 ||stats.chinaz.com^
 #广告联盟（可能有多余项）
-/yumi\d{,2}.com$/
+/yumi\d{1,2}.com$/
+/ppmh\d{1,2}.com$/
 /xpj\d.net$/
 /ylx\-\d.com$/
 /6699[0-9]\.top$/
@@ -151,7 +152,6 @@
 ||inmobi.cn^
 ||criteo.com^
 ||cnzz.com^
-||ppmh*.com^
 #新浪（可能有多余项）
 ||ad.sina.com.cn^
 ||adm.leju.sina.com.cn^
