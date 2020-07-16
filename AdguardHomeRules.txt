@@ -2,11 +2,6 @@
 #引用https://git.io/JfIXs
 
 #以下为某些不可描述网站加载的乱七八糟广告
-/yumi\d.com/
-/xpj\d.net/
-/ylx\-\d.com/
-/6699[0-9]\.top/
-
 ||maizhenai.cn^
 ||paomifen.cn^
 ||songlaoban.cn^
@@ -73,6 +68,10 @@
 # 站长统计
 ||stats.chinaz.com^
 #广告联盟（可能有多余项）
+/yumi\d.com/
+/xpj\d.net/
+/ylx\-\d.com/
+/6699[0-9]\.top/
 /^(\S+\.)?777\-?partners?\.(net|com)$/
 /^(\S+\.)?9377[a-z]{2}\.com$/
 /^(\S+\.)?abie[0-9]+\.top$/
