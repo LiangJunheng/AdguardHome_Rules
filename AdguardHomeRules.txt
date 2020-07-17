@@ -82,7 +82,11 @@
 /^(\S+\.)?afgr[\d]{1,2}\.com$/
 /^(\S+\.)?syma[a-z]\.cn$/
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
-||doubleclick*^
+/^(\S+\.)?doubleclick(\.[^\.]{1,4})(\.[a-z]{2})?$/
+/^(\S+\.)?adskeeper(\.[^\.]{1,4})(\.[a-z]{2})?$/
+||mgid.com^
+||runative-syndicate.com^
+||exdynsrv.com^
 ||log.cmbchina.com^
 ||api.segment.io^
 ||api.instabug.com^
