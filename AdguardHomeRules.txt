@@ -39,6 +39,7 @@
 ||wangkeduo.cn^
 ||lygpm.cn^
 ||jfsdiwmnbsk*.top^
+||rxconkz.cn^
 
 #恶意网站
 ||51yes.com^
@@ -66,6 +67,7 @@
 # 站长统计
 ||stats.chinaz.com^
 #广告联盟（可能有多余项）
+/^(\S+\.)?cymn\d{1,4}.top$/
 /^(\S+\.)?yumi\d{1,2}.com$/
 /^(\S+\.)?ppmh\d{1,2}.com$/
 /^(\S+\.)?xpj\d.net$/
