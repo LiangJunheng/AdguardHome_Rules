@@ -1,6 +1,10 @@
 #引用https://github.com/privacy-protection-tools/anti-AD
 #引用https://git.io/JfIXs
 
+#存在误报可能性
+/^(\S+\.)?[0-9a-z]{1,2}\.[0-9a-z]+\.[a-z]{2,4}(\.[a-z]{2})?\.wsweb[a-z]{3}(\.[^\.]{2,4})(\.[a-z]{2})?$/
+
+
 #以下为某些不可描述网站加载的乱七八糟广告
 ||maizhenai.cn^
 ||paomifen.cn^
@@ -40,6 +44,10 @@
 ||lygpm.cn^
 ||jfsdiwmnbsk*.top^
 ||rxconkz.cn^
+||swujhkc.cn^
+||kqtia.xyz^
+||aaladel.cn^
+||hasgf7908.com^
 
 #恶意网站
 ||51yes.com^
