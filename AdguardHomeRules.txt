@@ -284,7 +284,6 @@
 /\d(\d{4,}|\d{3,}[a-z]+|[a-z]+\d{3,})\d[-0-9a-z]*\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
 /(\.|^|\-|\/)ad(m|s(e[a-z]*)?|v((an|er|ic|is)[a-z]*)?)?[-0-9a-z]*(\-|\.)/
 /(measure|analy|stats|counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)[0-9a-z]*(\.|\-)/
-
 #/^(\S+\.)?[0-9a-z]*\d[a-z][0-9a-z]+\d[a-z][0-9a-z]*\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
 #/^(\S+\.)?[0-9a-z]*[a-z]\d[0-9a-z]+[a-z]\d[0-9a-z]*\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
 #/^(\S+\.)?\d+[a-z]+\d+[a-z]+[0-9a-z]+\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
