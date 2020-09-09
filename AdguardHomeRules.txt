@@ -1,6 +1,3 @@
-#引用https://github.com/privacy-protection-tools/anti-AD
-#引用https://git.io/JfIXs
-
 #存在误报可能性
 /[a-z]{1,3}\.[0-9a-z\-]+\.[^\.]{1,6}(\.[a-z]{2})?\.wsweb(cdn|pic)\.com$/
 @@/com\.wsweb(cdn|pic)\.com$/
