@@ -2,8 +2,8 @@
 #引用https://git.io/JfIXs
 
 #存在误报可能性
-/^(\S+\.)?[a-z]{1,3}\.[0-9a-z\-]+\.[^\.]{1,6}(\.[a-z]{2})?\.wsweb(cdn|pic)\.com$/
-@@/^(\S+\.)?com\.wsweb(cdn|pic)\.com$/
+/[a-z]{1,3}\.[0-9a-z\-]+\.[^\.]{1,6}(\.[a-z]{2})?\.wsweb(cdn|pic)\.com$/
+@@/com\.wsweb(cdn|pic)\.com$/
 
 
 #以下为某些不可描述网站加载的乱七八糟广告
