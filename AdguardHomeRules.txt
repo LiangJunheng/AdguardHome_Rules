@@ -331,7 +331,7 @@
 #正则化规则，过滤垃圾域名，例如1111a1.com,5k5k1.com,5k5ka.com,kk5k5.com,111111.com
 /(([0-9a-z]+(\d[a-z]|[a-z]\d)|(\d[a-z]|[a-z]\d)[0-9a-z]+)(\d[a-z]|[a-z]\d)|(\d[a-z]|[a-z]\d)[0-9a-z]*(\d[a-z]|[a-z]\d)[0-9a-z])[-0-9a-z]*\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
 /\d(\d{4,}|\d{3,}[a-z]+|[a-z]+\d{3,})\d[-0-9a-z]*\.([^\.]{1,7}|(ac|com|net)\.[a-z]{2})$/
-/(\.|^|\-|\/)ad(m|s(e[a-z]*)?|v((an|er|ic|is)[a-z]*)?)?[-0-9a-z]*(\-|\.)/
+/(\.|^|\-|\/)ad(m|s(e[a-z]*)?|v((an|er|ic|is)[a-z]*)?)?(\-|\.)/
 /(measure|analy|stats|counter|pixels?|track(ing)?|widgets?|toolbar|affiliat(es|ion|e)|tongji)[0-9a-z]*(\.|\-)/
 #/[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com$/
 #/([a-z\d\-]+\.)?(?!xn--)[^\.\/]{20,}\.(com|net|cn)$/
